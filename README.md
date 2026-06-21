@@ -40,6 +40,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/tamanna-five/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tamanna-five/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
@@ -70,4 +71,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/tamanna-five/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
