@@ -39,6 +39,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/tamanna-five/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/tamanna-five/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
