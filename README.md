@@ -67,6 +67,7 @@ Here is my leetcode progress: ✌️
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/tamanna-five/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1773-count-items-matching-a-rule](https://github.com/tamanna-five/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tamanna-five/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
