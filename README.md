@@ -41,6 +41,7 @@ Here is my leetcode progress: ✌️
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/tamanna-five/leetcode-solutions/tree/master/2235-add-two-integers) |
