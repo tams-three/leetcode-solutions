@@ -10,6 +10,7 @@ Here is my leetcode progress: ✌️
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/tamanna-five/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tamanna-five/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -61,6 +62,7 @@ Here is my leetcode progress: ✌️
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tamanna-five/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tamanna-five/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -110,4 +112,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/tamanna-five/leetcode-solutions/tree/master/1046-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tamanna-five/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
