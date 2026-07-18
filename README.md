@@ -16,6 +16,7 @@ Here is my leetcode progress: ✌️
 | [0136-single-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -97,6 +98,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -126,6 +128,7 @@ Here is my leetcode progress: ✌️
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/tamanna-five/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
@@ -166,4 +169,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
