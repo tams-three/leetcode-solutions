@@ -19,6 +19,7 @@ Here is my leetcode progress: ✌️
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -44,6 +45,7 @@ Here is my leetcode progress: ✌️
 | [0049-group-anagrams](https://github.com/tamanna-five/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tamanna-five/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -55,6 +57,7 @@ Here is my leetcode progress: ✌️
 | [0049-group-anagrams](https://github.com/tamanna-five/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tamanna-five/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tamanna-five/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +66,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -179,4 +183,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
