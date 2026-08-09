@@ -190,6 +190,7 @@ Here is my leetcode progress: ✌️
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Trie
 |  |
