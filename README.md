@@ -29,6 +29,7 @@ Here is my leetcode progress: ✌️
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/tamanna-five/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tamanna-five/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -54,6 +55,7 @@ Here is my leetcode progress: ✌️
 | [0242-valid-anagram](https://github.com/tamanna-five/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -85,6 +87,7 @@ Here is my leetcode progress: ✌️
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/tamanna-five/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -145,6 +148,7 @@ Here is my leetcode progress: ✌️
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tamanna-five/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/tamanna-five/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Enumeration
 |  |
@@ -190,6 +194,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
