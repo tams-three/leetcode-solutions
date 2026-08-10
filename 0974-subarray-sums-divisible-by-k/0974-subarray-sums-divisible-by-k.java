@@ -5,16 +5,15 @@ class Solution {
         int count = 0;
         map.put(0,1);
         for(int i = 0; i<nums.length ; i++){
-            prefixsum += nums[i];
-            int rem = prefixsum % k;
-            if(rem < 0){
-                rem += k;
-            }
-            count += map.getOrDefault(rem , 0);
-            map.put(rem, map.getOrDefault(rem,0)+1);
-        }  
-        return count;
+           prefixsum += nums[i];
+           int rem = prefixsum % k;
+           if(rem < 0){
+            rem += k;
+           }
+        count += map.getOrDefault(rem , 0);
+        map.put(rem, map.getOrDefault(rem, 0)+1);
+        }
+    
+    return count;
     }
 }
-    
-    
