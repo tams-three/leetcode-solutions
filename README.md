@@ -17,6 +17,7 @@ Here is my leetcode progress: ✌️
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tamanna-five/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamanna-five/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -109,6 +110,7 @@ Here is my leetcode progress: ✌️
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/tamanna-five/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamanna-five/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -121,6 +123,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamanna-five/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
