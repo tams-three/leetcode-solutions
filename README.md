@@ -29,6 +29,7 @@ Here is my leetcode progress: ✌️
 | [0560-subarray-sum-equals-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/tamanna-five/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -72,6 +73,7 @@ Here is my leetcode progress: ✌️
 | [0229-majority-element-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tamanna-five/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -116,6 +118,7 @@ Here is my leetcode progress: ✌️
 | [0344-reverse-string](https://github.com/tamanna-five/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/tamanna-five/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamanna-five/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -215,6 +218,7 @@ Here is my leetcode progress: ✌️
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -236,4 +240,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
