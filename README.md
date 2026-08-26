@@ -31,6 +31,7 @@ Here is my leetcode progress: ✌️
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/tamanna-five/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -146,6 +147,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/tamanna-five/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/tamanna-five/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -206,6 +208,7 @@ Here is my leetcode progress: ✌️
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamanna-five/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tamanna-five/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/tamanna-five/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
