@@ -3,14 +3,14 @@ class Solution {
         Arrays.sort(people);
         int start = 0;
         int end = people.length - 1;
-        int boat = 0;
-        while(start<=end){
-            if(people[start]+people[end] <= limit){
+        int boats= 0;
+        while(start <=end){
+            if(people[start]+people[end]<=limit){
                 start++;
             }
             end--;
-            boat++;
+            boats++;
         }
-        return boat;
+        return boats;
     }
 }
