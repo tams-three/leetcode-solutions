@@ -223,6 +223,7 @@ Here is my leetcode progress: ✌️
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/tamanna-five/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -279,4 +280,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tamanna-five/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tamanna-five/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
