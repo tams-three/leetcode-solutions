@@ -40,6 +40,7 @@ Here is my leetcode progress: ✌️
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/tamanna-five/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/tamanna-five/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -154,6 +155,7 @@ Here is my leetcode progress: ✌️
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/tamanna-five/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
