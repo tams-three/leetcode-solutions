@@ -7,6 +7,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tamanna-five/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tamanna-five/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0015-3sum) |
@@ -151,6 +152,7 @@ Here is my leetcode progress: ✌️
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tamanna-five/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tamanna-five/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -219,6 +221,7 @@ Here is my leetcode progress: ✌️
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tamanna-five/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tamanna-five/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0912-sort-an-array) |
