@@ -64,6 +64,7 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tamanna-five/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/tamanna-five/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tamanna-five/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -174,6 +175,7 @@ Here is my leetcode progress: ✌️
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tamanna-five/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tamanna-five/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tamanna-five/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tamanna-five/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -251,6 +253,7 @@ Here is my leetcode progress: ✌️
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tamanna-five/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
