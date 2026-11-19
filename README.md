@@ -61,6 +61,7 @@ Here is my leetcode progress: ✌️
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tamanna-five/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamanna-five/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tamanna-five/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ Here is my leetcode progress: ✌️
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Here is my leetcode progress: ✌️
 | [1929-concatenation-of-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tamanna-five/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tamanna-five/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2352-equal-row-and-column-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -307,4 +310,8 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tamanna-five/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
