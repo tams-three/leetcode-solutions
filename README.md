@@ -52,6 +52,7 @@ Here is my leetcode progress: ✌️
 | [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tamanna-five/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tamanna-five/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tamanna-five/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/tamanna-five/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
