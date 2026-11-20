@@ -120,6 +120,7 @@ Here is my leetcode progress: ✌️
 | [0189-rotate-array](https://github.com/tamanna-five/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tamanna-five/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tamanna-five/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tamanna-five/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tamanna-five/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/tamanna-five/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -199,6 +200,7 @@ Here is my leetcode progress: ✌️
 | [0680-valid-palindrome-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/tamanna-five/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/tamanna-five/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tamanna-five/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tamanna-five/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/tamanna-five/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tamanna-five/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -317,4 +319,12 @@ Here is my leetcode progress: ✌️
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/tamanna-five/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tamanna-five/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/tamanna-five/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
