@@ -38,6 +38,7 @@ Here is my leetcode progress: ✌️
 | [0283-move-zeroes](https://github.com/tamanna-five/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/tamanna-five/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/tamanna-five/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/tamanna-five/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/tamanna-five/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -276,6 +277,7 @@ Here is my leetcode progress: ✌️
 | [0011-container-with-most-water](https://github.com/tamanna-five/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/tamanna-five/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/tamanna-five/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/tamanna-five/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/tamanna-five/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Boyer–Moore Majority Vote Algorithm
